@@ -1,0 +1,2 @@
+Sample app from Thoughtbot for demonstrating testing with Rspec and Capybarra.
+https://gumroad.com/l/testing-rails
